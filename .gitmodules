@@ -1,0 +1,6 @@
+[submodule "today-api"]
+	path = today-api
+	url = https://github.com/markuslim24/today-api.git
+[submodule "today-frontend"]
+	path = today-frontend
+	url = https://github.com/markuslim24/today-frontend
